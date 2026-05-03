@@ -29,7 +29,7 @@ This project uses the provided e-commerce API.
 
 ## Demo
 
-Add your deployed project link here.
+https://fresh-cart-gray-eight.vercel.app/
 
 ## Installation
 
