@@ -1,16 +1,38 @@
-# React + Vite
+# Next.js E-commerce App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-featured e-commerce web application built with Next.js.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- User authentication (Register / Login / Forgot Password / Reset Password)
+- Products listing
+- Categories and brands
+- Wishlist with dynamic heart state
+- Cart management
+- Checkout and payment integration
+- Orders history
+- Responsive design
+- REST API integration
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Next.js
+- React
+- JavaScript
+- CSS / Tailwind CSS (if used)
+- Axios
+- React Router (if used)
 
-## Expanding the ESLint configuration
+## API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project uses the provided e-commerce API.
+
+## Demo
+
+Add your deployed project link here.
+
+## Installation
+
+```bash
+npm install
+npm run dev
